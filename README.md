@@ -15,3 +15,7 @@
 5. Maka akan keluar hasil bilangan yang terbesar dari ke 3 bilangan tersebut
 
 ![Tanpa judul](https://user-images.githubusercontent.com/57003140/67681346-bad37200-f9bf-11e9-9300-516c1a73e49a.png)
+
+Tampilan Flowchart
+
+![Tanpa judul](https://user-images.githubusercontent.com/57003140/67687742-59b19b80-f9cb-11e9-9e65-00f0c094a8d8.png)
